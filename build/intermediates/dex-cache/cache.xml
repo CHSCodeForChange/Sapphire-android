@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/19c92c2954b462dac061e46f35fa9f17eb752cf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5409dcfa4cdf260b1eab2bf4374150677237f562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/31d65c981a616d595eee7316cba67cd4a6a5696b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a97d5da004eb98e1e680c6caf0d3084376431253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/7ab2b3f8fb3ee12d1fce70bef5c63c694227d4eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b05e214534e3450c6f30bdb64ac33cceb65f9b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/664c167426304cfb930ce8893222be001569f882/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4265c8c70c353f225a826b9ea77b3c16f7516267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/53d4f67221f5a85ed1ebcd2353da70b34791f51b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03873d509dd60d26cdf34d88a5ab2aa20813865b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27a992c5268c60f1cd2a4194ac3698916fe60a84">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_305c65a7bde9ef393396cfa4755714670f058960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/2c491596b13b2ac8488bd546fd6fa13c60451973/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_671e8a723d7155df5598ce1d80942c8f62fb8c6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9bf65ef72c8071b0b01a80b140d5d093ac845d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/d3269000287ea13fa4c6040ef340af085c14d588/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bcfce98234bf7bf3db1731ba55f974f9170a625/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_63ab493d23ccff569364e5b601262a0deff47d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ae1d0653ad777713133317d88f53fe94baa5b3cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/912940944266f437d5eb4523942a22995f1929ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c531fd909b0c311e3f248d964aa58db77417b71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/7a96ca9eb7c086aba7541484ee8a628ef79e3b0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1d01442da9302257ee2de1138be2bd28553a2d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armaangoel/.android/build-cache/be059b10483f3a53d70d208b0c7dbe151bdf3628/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/armaangoel/AndroidStudioProjects/Sapphire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac07781cd401d27643573b9a528fd80ece1f710f/classes.dex" />
+    </item>
+
+</items>
